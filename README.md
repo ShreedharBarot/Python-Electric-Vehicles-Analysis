@@ -12,9 +12,7 @@ This **EV Market Dashboard** is an interactive **data visualization tool** built
 ✅ **Dynamic Filters (Year, Country, City, Manufacturer)**  
 
 ## 🚀 Live Demo
-🔗 **[Try the Live Dashboard](https://share.streamlit.io/YOUR_USERNAME/EV-Dashboard/main/evdashboard.py)**  
-
-*(Replace with your actual Streamlit Cloud link if deployed.)*  
+🔗 **[Try the Live Dashboard](https://ev-dashboard-5ak2glruigkcmsvby4prp7.streamlit.app/)**  
 
 ---
 
