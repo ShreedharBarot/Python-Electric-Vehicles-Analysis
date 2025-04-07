@@ -15,6 +15,11 @@ This **EV Market Dashboard** is an interactive **data visualization tool** built
 🔗 **[Try the Live Dashboard](https://ev-dashboard-5ak2glruigkcmsvby4prp7.streamlit.app/)**  
 
 ---
+## 📷 Screenshots
+![Overview](EV_Screenshot.png)
+
+![Overview](EV%20%screenshot%20%2.png)
+
 
 ## 🛠 Installation & Setup
 To run this project **locally**, follow these steps:
