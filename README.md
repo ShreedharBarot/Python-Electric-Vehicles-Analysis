@@ -18,7 +18,7 @@ This **EV Market Dashboard** is an interactive **data visualization tool** built
 ## 📷 Screenshots
 ![Overview](EV_Screenshot.png)
 
-![Overview](EV%20%screenshot%20%2.png)
+![Overview](EV_screenshot_2.png)
 
 
 ## 🛠 Installation & Setup
